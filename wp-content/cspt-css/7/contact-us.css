@@ -12,7 +12,6 @@
   background-image: url(../../uploads/sites/7/2020/02/contact-us.jpeg);
   background-repeat: no-repeat;
   background-position: right top;
- 
   background-size: cover;
   background-attachment: scroll;
 }
@@ -43,7 +42,7 @@
 .error404 .site-content-wrap,
 .error404 .cspt-bg-color-custom > .site-content-wrap:before {
   background-color: rgba(0, 0, 0, 0.5);
-  background-image: url(../../uploads/sites/7/2020/02/contact-us.jpeg);
+  background-image: url(http://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2019/06/project-new-02.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
