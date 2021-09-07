@@ -2233,3 +2233,8 @@ body table.booked-calendar thead tr:first-child th {
     max-width: 23%;
   }
 }
+
+
+ .cspt-navbar div > ul > li > a{
+  color: #09162a;
+}
