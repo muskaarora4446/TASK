@@ -9,21 +9,13 @@
 .cspt-title-bar-wrapper,
 .contact .cspt-title-bar-wrapper.cspt-bg-color-custom:before {
   background-color: #eee;
-  background-image: url(../../uploads/sites/7/2020/02/contact-us.jpeg);
+  background-image: url(../../uploads/sites/7/2020/02/NaturalResources.jpg);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: cover;
   background-attachment: scroll;
 }
-.cspt-title-bar-wrapper,
-.natural .cspt-title-bar-wrapper.cspt-bg-color-custom:before {
-  background-color: #eee;
-  background-image: url(https://logassociates.com/wp-content/uploads/2020/08/simon-berger-aZjw7xI3QAA-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-size: cover;
-  background-attachment: scroll;
-}
+
 .site-footer,
 .site-footer.cspt-bg-color-custom:before {
   background-color: #3f3349;
