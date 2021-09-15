@@ -2240,16 +2240,4 @@ body table.booked-calendar thead tr:first-child th {
   color: #09162a;
 }
 
-@media screen and (max-width: 1200px) {
-  .post-item{
-    width: 350px;
-  }
-  .cspt-title-bar-wrapper,
-.contact .cspt-title-bar-wrapper.cspt-bg-color-custom:before{
-  width: 100%;
-  height: auto;
-  background-size: cover;
-}
-}
-
 
