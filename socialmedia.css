@@ -97,9 +97,14 @@
   top: 100px;
 }
 
-.row{
-  width: 1400px; 
-  padding-left: 70px;
+.row-footer{
+  width: 1270px;
+    padding-left: 150px;
+}
+
+.cspt-footer-widget {
+  padding-right: 15px;
+    margin-right: 50px;
 }
 
 @media screen and (max-width: 1200px)  {
