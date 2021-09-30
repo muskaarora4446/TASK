@@ -100,12 +100,18 @@
 .cspt-footer-widget {
   padding-right: 15px;
     margin-right: 50px;
+
+}
+
+.cspt-footer-widget-col-1{
+  margin-left: 100px;
 }
 
 
 @media screen and (max-width: 1200px)  {
 .cspt-footer-widget-col-1 {
   padding-right: 0px!important;
+  margin-left: 0px;
 }
 #sidebar{
   top: 270px;
