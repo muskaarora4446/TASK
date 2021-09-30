@@ -70,7 +70,7 @@
 }
 
 .google {
-  background-color: #dd4b39;
+  background-color: #2dcf48;
 }
 
 .linkedin p i {
@@ -78,7 +78,7 @@
 }
 
 .google p i {
-  left: 35px;
+  left: 27px;
 }
 
 .youtube p i {
@@ -86,19 +86,20 @@
 }
 
 .youtube {
-  background-color: #e52d27;
+  background-color: rgb(226, 23, 101);
 }
 
 .linkedin {
   background-color: #0976b4;
 }
 
-#sidebar{
+#sidebar {
   top: 100px;
 }
 
 .cspt-footer-widget {
   padding-right: 15px;
+<<<<<<< HEAD
     margin-right: 50px;
 
 }
@@ -118,10 +119,24 @@
 }
 .cspt-footer-widget {
   padding-right: 15px;
-    margin-right: 0px;
-}
+=======
+  margin-right: 50px;
 }
 
-.cspt-base-icon-menu{
+@media screen and (max-width: 1200px) {
+  .cspt-footer-widget-col-1 {
+    padding-right: 0px !important;
+  }
+  #sidebar {
+    top: 270px;
+  }
+  .cspt-footer-widget {
+    padding-right: 15px;
+>>>>>>> e85a297ade837c471222b04ee4498822e1013d08
+    margin-right: 0px;
+  }
+}
+
+.cspt-base-icon-menu {
   color: black;
 }
