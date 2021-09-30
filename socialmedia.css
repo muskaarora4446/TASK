@@ -98,8 +98,7 @@
 }
 
 .cspt-footer-widget {
-  padding-right: 15px;
-<<<<<<< HEAD
+    padding-right: 15px;
     margin-right: 50px;
 
 }
@@ -119,7 +118,6 @@
 }
 .cspt-footer-widget {
   padding-right: 15px;
-=======
   margin-right: 50px;
 }
 
@@ -132,7 +130,6 @@
   }
   .cspt-footer-widget {
     padding-right: 15px;
->>>>>>> e85a297ade837c471222b04ee4498822e1013d08
     margin-right: 0px;
   }
 }
