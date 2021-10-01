@@ -121,6 +121,7 @@
   margin-right: 50px;
 }
 
+
 @media screen and (max-width: 1200px) {
   .cspt-footer-widget-col-1 {
     padding-right: 0px !important;
@@ -133,6 +134,7 @@
     margin-right: 0px;
   }
 }
+
 
 .cspt-base-icon-menu {
   color: black;
